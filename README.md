@@ -1,8 +1,10 @@
 # Jingwei Tang's Homepage
 
 
-Jingwei Tang is currently a Ph.D. student at the College of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, China.  
+Welcome to Jingwei Tang's homepage. 
 
-The website includes information about my works, publications, and resume, 
+I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Zhejiang University of Technology, Hangzhou, China. 
+
+This page serves as a platform to showcase my works, publications, and resume, 
 
 with more updates to come in the near future.
