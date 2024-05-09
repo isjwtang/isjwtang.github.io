@@ -24,16 +24,16 @@ If you are interested in my research, please feel free to contact me via eejwtan
 📖 Experience
 
 Education
-2023.08 - now, The Hong Kong University of Science and Technology (HKUST).
-Ph.D in Computer Science and Engineering    Advisor: Huamin Qu
+<!-- 2023.08 - now, The Hong Kong University of Science and Technology (HKUST). -->
+<!-- Ph.D in Computer Science and Engineering    Advisor: Huamin Qu -->
 
-2020.09 - 2023.06, Tsinghua University (THU).
+<!-- 2020.09 - 2023.06, Tsinghua University (THU).
 Master in Software Engineering ( Graduation with Honor)    Advisor: Jianmin Wang and Enya Shen
 Thesis: “Research on Task-Driven Visualization Recommendation” ( Excellent Master Thesis of THU)
 
 2016.09 - 2020.06, Nanjing University of Posts and Telecommunications (NJUPT).
 Bachelor in Software Engineering (Ranked First,  Graduation with Honor)    Advisor: Fu Xiao and He Xu
-Thesis: “High-Precision Indoor Wireless Localization Based on UHF RFID” ( Excellent Undergraduate Thesis of Jiangsu Province)
+Thesis: “High-Precision Indoor Wireless Localization Based on UHF RFID” ( Excellent Undergraduate Thesis of Jiangsu Province) -->
 
 Gap Year
 
