@@ -1,46 +1,58 @@
 ---
 permalink: /
-title: "Welcome to Jingwei's Websites"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hello! I am Jingwei Tang, a Ph.D student in Zhejiang University of Technology, 
-<!-- under the supervision of Prof. Huamin Qu,  -->
-affiliated with ZJUTVIS Group. 
-<!-- Prior to that, I received my master’s degree with honor in School of Software at Tsinghua University, under the supervision of Prof. Jianmin Wang.  -->
-<!-- I have also taken a research internship at Microsoft Research Asia advised by Dr. Yun Wang. -->
+<span class='anchor' id='about-me'></span>
 
-<!-- My research interest is to democratize visual data analysis and communication through the intersection of Data Science (DS), Artificial Intelligence (AI), Visualization (VIS), and Human-Computer Interaction (HCI). I aim to empower everyone to be the analyst and story director of their data. -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-If you are interested in my research, please feel free to contact me via eejwtang[at]gmail.com.
-
-📖 Publications
-
-
-📖 Experience
-
-Education
-<!-- 2023.08 - now, The Hong Kong University of Science and Technology (HKUST). -->
-<!-- Ph.D in Computer Science and Engineering    Advisor: Huamin Qu -->
-
-<!-- 2020.09 - 2023.06, Tsinghua University (THU).
-Master in Software Engineering ( Graduation with Honor)    Advisor: Jianmin Wang and Enya Shen
-Thesis: “Research on Task-Driven Visualization Recommendation” ( Excellent Master Thesis of THU)
-
-2016.09 - 2020.06, Nanjing University of Posts and Telecommunications (NJUPT).
-Bachelor in Software Engineering (Ranked First,  Graduation with Honor)    Advisor: Fu Xiao and He Xu
-Thesis: “High-Precision Indoor Wireless Localization Based on UHF RFID” ( Excellent Undergraduate Thesis of Jiangsu Province) -->
-
-Gap Year
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-📖 Service
-<!-- Area Chair: CHI LBW 2024. -->
-<!-- Conference Reviewer: IEEE VIS 2022-2023, CHI 2024 (One Special Recognition for Outstanding Reviews), CSCW 2023, EuroVis 2023-2024, IUI 2023, PacificVis 2023, IDC 2024, ChinaVis 2022-2023, C&C 2024. -->
-<!-- Journal Reviewer: International Journal of Human-Computer Interaction (IJHCI). -->
-<!-- Conference Volunteer: BAAI Conference 2020-2022 (Excellent Editor). -->
-<!-- Teaching: TA for COMP4431 Multimedia Computing, HKUST. -->
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
