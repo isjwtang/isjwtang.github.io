@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingwei Tang \n (汤井威)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Zhejiang University of Technology"
   location         : "Hangzhou, China"
-  employer         : "Ph.D. student, Zhejiang University of Technology."
+  employer         : #
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GS3cZwkAAAAJ&hl=zh-CN"
   email            : "eejwtang@gmail.com"
