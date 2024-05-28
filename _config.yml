@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingwei Tang \n (汤井威)"
+  name_en          : "Jingwei Tang"
+  name_cn          : "(汤井威)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhejiang University of Technology"
   location         : "Hangzhou, China"
