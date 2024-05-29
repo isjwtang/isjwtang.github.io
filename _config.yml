@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingwei's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "isjwtang/isjwtan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name_en          : "Jingwei Tang"
   name_cn          : "(汤井威)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University of Technology"
+  bio              : "Ph.D. Student at Zhejiang University of Technology"
   location         : "Hangzhou, China"
   employer         : #
   pubmed           : 
