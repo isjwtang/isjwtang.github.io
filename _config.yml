@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingwei's Homepage"
+title                    : "Jingwei Tang"
 description              : ""
 repository               : "isjwtang/isjwtan.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,9 +27,9 @@ author:
   bio              : "Ph.D. Student at Zhejiang University of Technology"
   location         : "Hangzhou, China"
   employer         : #
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=GS3cZwkAAAAJ&hl=zh-CN"
-  email            : "eejwtang@gmail.com"
+  pubmed           :
+  googlescholar    : "https://scholar.goqazogle.com/citations?user=GS3cZwkAAAAJ"
+  email            : "jwtang@zjut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
